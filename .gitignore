@@ -1,0 +1,7 @@
+# Temp / Logs
+pinggy.log
+*.log
+
+# System / OS
+.DS_Store
+Thumbs.db
